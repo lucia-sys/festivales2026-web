@@ -21,4 +21,4 @@ Durante el desarrollo se realizaron varios commits significativos. En el primero
 
 --Mayor dificultad encontrada--
 
-La principal dificultad fue lograr una correcta alineación entre el texto y la imagen en la sección “Sobre Nosotros” manteniendo el diseño responsive. La solución en escalar la imagen para que vaya a la derecha 
+La principal dificultad fue lograr una correcta alineación entre el texto y la imagen en la sección “Sobre Nosotros” a la misma escala y que quede bien. Se resolvió con unos cambios de separación menores entre el texto y la imagen aparte de hacer el texto ucpar la mayoría del espacio
