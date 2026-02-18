@@ -19,6 +19,6 @@ Se han utilizado componentes prediseñados de Bootstrap como Navbar, Cards, Butt
 
 Durante el desarrollo se realizaron varios commits significativos. En el primero se creó la estructura básica del documento HTML y se añadió el Navbar y la sección principal. En el segundo se implementó la sección de festivales utilizando el sistema de grid y las tarjetas. En el tercero se añadió la sección informativa y el footer. Finalmente, se realizaron ajustes de diseño, espaciado y revisión del comportamiento responsive.
 
-Mayor dificultad encontrada
+--Mayor dificultad encontrada--
 
-La principal dificultad fue lograr una correcta alineación entre el texto y la imagen en la sección “Sobre Nosotros” manteniendo el diseño responsive. La solución consistió en utilizar clases de flexbox de Bootstrap junto con imágenes fluidas para asegurar una correcta adaptación a distintos tamaños de pantalla.
+La principal dificultad fue lograr una correcta alineación entre el texto y la imagen en la sección “Sobre Nosotros” manteniendo el diseño responsive. La solución en escalar la imagen para que vaya a la derecha 
